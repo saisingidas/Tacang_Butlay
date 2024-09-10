@@ -1,0 +1,7 @@
+npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-screens react-native-safe-area-context react-native-vector-icons   
+
+ npm install react-native-check-box
+
+ npm install @react-native-async-storage/async-storage
+
+ npm install react-native-elements
